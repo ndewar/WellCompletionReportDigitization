@@ -1,2 +1,2 @@
 # WellCompletionReportDigitization
-Betatype workflow using optical character recognition and googles tesseract to parse text from well completion reports from water wells in California.
+Betatype workflow using optical character recognition and googles tesseract to parse text from well completion reports from water wells in California. Main left and main right run the workflow for the hardcoded approximate right and left windows where the lithology data is in the well completion reports. Well completion reports can be found at the following link: https://data.cnra.ca.gov/dataset/well-completion-reports.
