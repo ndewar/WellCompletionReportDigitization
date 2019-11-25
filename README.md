@@ -1,2 +1,2 @@
-# scanning_wcrs
-Machine learning combined with some OCR and googles tesseract to parse text from well completion reports
+# WellCompletionReportDigitization
+Betatype workflow using optical character recognition and googles tesseract to parse text from well completion reports from water wells in California.
